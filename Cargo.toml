@@ -1,7 +1,7 @@
 [package]
 name = "sosumi-docs-downloader"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
 description = "Web scraper for downloading sosumi.ai documentation with proper markdown link handling"
 authors = ["Your Name <your.email@example.com>"]
 
